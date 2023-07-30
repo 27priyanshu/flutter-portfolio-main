@@ -9,7 +9,7 @@ String imagePath = "images/priyanshu.jpg";
 
 //String data to modify
 String name = "Priyanshu Singh";
-String username = "flutterroles";
+String username = "Seeker27";
 
 //Link to resume on Google Drive
 String resumeLink =
