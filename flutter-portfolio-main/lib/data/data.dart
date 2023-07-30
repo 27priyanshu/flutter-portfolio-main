@@ -13,27 +13,27 @@ String username = "Seeker27";
 
 //Link to resume on Google Drive
 String resumeLink =
-    "https://drive.google.com/file/d/1uZPqMWva6pZxzQxsR_ILLZ_FxJr24QeY/view?usp=sharing";
+    "https://drive.google.com/file/d/1f2um29wdqvnD0mmkB7BE2_I5uTtbtxx_/view?usp=sharing";
 
 //Contact Email
-String contactEmail = "mail@adityathakur.in";
+String contactEmail = "2003priyanshusingh@gmail.com";
 
 String aboutWorkExperience = '''
-Hello I am a freelancer
+Lead Developer – SDC USS            Oct 2022 - Present
 
-He has previously been a speaker at the Flutter Global Summit'21, Flutter Vikings and events across colleges, universities (like VIT Chennai, Vellore, MIT-ADT), and clubs (IEEE APSIT, SFIT, GirlScript, GeeksforGeeks Student Chapter, Google CrowdSource, and more) here in India. 
+- I have been working as a developer at the Software Development Cell - University School of Studies.
+- I actively worked on developing new software programs for my university and continuing projects throughout this time.
+
 ''';
 
 String aboutMeSummary = '''
-Aditya is a content creator and has over 5K subscribers on YouTube and a 700+ member community on Discord. 
-📺 YouTube Channel: watch.adityathakur.in
-🚀 Discord Community: discord.adityathakur.in
+
 ''';
 
-String location = "Dharamshala, India";
-String website = "adityathakur.in";
-String portfolio = "adityathakurxd";
-String email = "mail@adityathakur.in";
+String location = "New Delhi, India";
+String github = "27priyanshu";
+String linkedin = "priyanshu-a30789200/";
+String email = "2003priyanshusingh";
 
 List<Project> projectList = [
   Project(

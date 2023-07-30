@@ -193,7 +193,7 @@ class HomeScreen extends StatelessWidget {
                                           ),
                                           Row(
                                             children: [
-                                              Text(website),
+                                              Text(github),
                                               const SizedBox(
                                                 width: 5,
                                               ),
@@ -215,7 +215,7 @@ class HomeScreen extends StatelessWidget {
                                           ),
                                           Row(
                                             children: [
-                                              Text(portfolio),
+                                              Text(linkedin),
                                               const SizedBox(
                                                 width: 5,
                                               ),
@@ -315,7 +315,7 @@ class HomeScreen extends StatelessWidget {
                                           height: 10,
                                         ),
                                         Text(
-                                          "Website",
+                                          "Github",
                                           style: kSubTitleText,
                                         ),
                                         const SizedBox(
@@ -323,7 +323,7 @@ class HomeScreen extends StatelessWidget {
                                         ),
                                         Row(
                                           children: [
-                                            Text(website),
+                                            Text(github),
                                             const SizedBox(
                                               width: 5,
                                             ),
@@ -337,7 +337,7 @@ class HomeScreen extends StatelessWidget {
                                           height: 10,
                                         ),
                                         Text(
-                                          "Portfolio",
+                                          "LinkedIn",
                                           style: kSubTitleText,
                                         ),
                                         const SizedBox(
@@ -345,7 +345,7 @@ class HomeScreen extends StatelessWidget {
                                         ),
                                         Row(
                                           children: [
-                                            Text(portfolio),
+                                            Text(linkedin),
                                             const SizedBox(
                                               width: 5,
                                             ),
