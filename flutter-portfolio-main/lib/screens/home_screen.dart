@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
               width: 10,
             ),
             Text(
-              "Untitled UI",
+              "Portfolio",
               style: TextStyle(color: Colors.black),
             )
           ],

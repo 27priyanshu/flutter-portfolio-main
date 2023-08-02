@@ -19,10 +19,18 @@ String resumeLink =
 String contactEmail = "2003priyanshusingh@gmail.com";
 
 String aboutWorkExperience = '''
-Lead Developer – SDC USS            Oct 2022 - Present
+ SDC-USS            Oct 2022 - Present
 
-- I have been working as a developer at the Software Development Cell - University School of Studies.
+- I have been working as a Lead developer at the Software Development Cell - University School of Studies.
 - I actively worked on developing new software programs for my university and continuing projects throughout this time.
+
+Organize-Events 
+
+- HackEDCode           March 2023
+Organizing team lead at HackEDCode, Hackathon presented by University School of automation and robotics.
+
+- UHACK                November 2022
+Organizing team member at UHack Hackathon presented by Infoexpression USICT.
 
 ''';
 
