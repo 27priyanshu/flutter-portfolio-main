@@ -185,7 +185,7 @@ class HomeScreen extends StatelessWidget {
                                             height: 10,
                                           ),
                                           Text(
-                                            "Website",
+                                            "Github",
                                             style: kSubTitleText,
                                           ),
                                           const SizedBox(
@@ -207,7 +207,7 @@ class HomeScreen extends StatelessWidget {
                                             height: 10,
                                           ),
                                           Text(
-                                            "Portfolio",
+                                            "Linkedin",
                                             style: kSubTitleText,
                                           ),
                                           const SizedBox(

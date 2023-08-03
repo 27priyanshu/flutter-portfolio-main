@@ -1,0 +1,4 @@
+#Thu Aug 03 19:01:14 IST 2023
+base.0=C\:\\Users\\PRIYANSHU SINGH\\Downloads\\flutter-portfolio-main\\flutter-portfolio-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
