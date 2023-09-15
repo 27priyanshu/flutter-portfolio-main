@@ -13,7 +13,7 @@ String username = "Seeker27";
 
 //Link to resume on Google Drive
 String resumeLink =
-    "https://drive.google.com/file/d/1sGvGM1fd2jgKPdt9o5El7UXD7ZjKC4Cb/view?usp=sharing";
+    "https://drive.google.com/file/d/1KA1G3SBHWUtoYic1g-8mcJ8YTPluk06i/view?usp=sharing";
 
 //Contact Email
 String contactEmail = "2003priyanshusingh@gmail.com";
@@ -53,17 +53,17 @@ List<Project> projectList = [
           "A machine learning model was developed to analysis the SUSY (Super-Symmetry) dataset .",
       link: "https://github.com/27priyanshu/SUSY"),
   Project(
+      name: "ML Pipeline Creation Using DVC",
+      description:
+          "End-to-End Machine Learning Pipeline Creation using DVC simplifies and enhances the ML development process.",
+      link: "https://github.com/27priyanshu/DVC-project"),
+  Project(
+      name: "Boston house price prediction",
+      description:
+          "The Boston Housing dataset is a collection of housing-related features and median property values for Boston neighborhoods, often used for regression and predictive modeling tasks.",
+      link: "https://github.com/27priyanshu/boston-house-price"),
+  Project(
       name: "Catalog App",
-      description:
-          "Catalog App is a Flutter project that provides a platform for users to buy trending products",
-      link: "https://github.com/27priyanshu/Catalog_App"),
-  Project(
-      name: "Weather App 2.0",
-      description:
-          "This is a mobile weather app developed in Flutter, which displays the current weather conditions, hourly forecast, and 5-day forecast for the entered city.",
-      link: "https://github.com/27priyanshu/weather_app"),
-  Project(
-      name: "Flutter Portfolio",
-      description: "My Portfolio Website",
-      link: "https://github.com/27priyanshu/flutter-portfolio-main")
+      description: "Catalog App is a Flutter project that provides a platform for users to buy trending products. It is designed to be a user-friendly and efficient way to browse and purchase items from various categories.",
+      link: "https://github.com/27priyanshu/Catalog_App")
 ];
